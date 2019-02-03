@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array type="array" name="lunch_selection">
+        <item>AAAA</item>
+        <item>BBBB</item>
+        <item>CCCC</item>
+    </string-array>
+
+    <string-array type="array" name="additional_drinks">
+        <item>Drink1</item>
+        <item>Drink2</item>
+        <item>Drink3</item>
+    </string-array>
+
+</resources>
